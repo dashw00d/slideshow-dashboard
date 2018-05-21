@@ -1,7 +1,8 @@
 Mods:
-Uses date and time for file name to allow duplicate file names
-Changed directories
-Added inteval speed setting
+Uses date and time for file name to allow duplicate file names.  
+Changed directories.  
+Added inteval speed setting.  
+Added login panel with static non-database credentials.  
 
 
 
