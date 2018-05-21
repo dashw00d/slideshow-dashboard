@@ -1,3 +1,10 @@
+Mods:
+Uses date and time for file name to allow duplicate file names
+Changed directories
+Added inteval speed setting
+
+
+
 # Simple Picture Manager
 Easy to use and manage pictures with easly
 
